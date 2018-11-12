@@ -1,3 +1,4 @@
+<html>
 <form action="/ma-page-de-traitement" method="post">
     <div>
         <label for="name">Nom :</label>
@@ -12,3 +13,4 @@
         <textarea id="msg" name="user_message"></textarea>
     </div>
 </form>
+</html>
